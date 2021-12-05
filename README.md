@@ -30,4 +30,17 @@ would do a tasks -no matter how small- towards becoming better in whatever field
 and I wanted to implement this kaizen principle in my life in an enjoyable way.
 
 This project is my personal approach and implementation to the kaizen principle in a fun way that motivates me and hopefully
-other people to feel accomplished and motivated to follow the things we want in our short span of life.
+other people to feel accomplished and motivated to follow the things we want in our short life spans.
+
+# General Idea:
+You have an amount of credit each day, Adding a task for the day will take some credit depending on how hard the task is (subjective).
+Marking the task as done will add experience to the user. When the user reaches an amount of experience, he can level up
+thus adding more credit and the ability to do more tasks. Not doing anything a day will cause the user to lose some exp.
+
+It is possible to make some features available only after the users reaches a certain level.
+
+# Index
+This repo contains the following information:
+- README.md: Motivation and introduction.
+- REQUIREMENT.md: Describes the functional and non-functional requirement.
+- assets/ : A directory that contains images or design saved files of the software used in the design (visual_paradigm).
