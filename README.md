@@ -40,7 +40,8 @@ thus adding more credit and the ability to do more tasks. Not doing anything a d
 It is possible to make some features available only after the users reaches a certain level.
 
 # Index
-This repo contains the following information:
-- README.md: Motivation and introduction.
-- REQUIREMENT.md: Describes the functional and non-functional requirement.
+This repo contains the following information with the order that they should be read:
+1. [README](README.md): Motivation and introduction.
+2. [REQUIREMENT](REQUIREMENT.md): Describes the functional and non-functional requirement.
+3. [ANALYSIS AND DESIGN](ANALYSIS_&_DESIGN.md): Describes the requirements in detail and the approach to proceed. 
 - assets/ : A directory that contains images or design saved files of the software used in the design (visual_paradigm).
