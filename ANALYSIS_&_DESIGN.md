@@ -8,7 +8,7 @@ on the design of the database.
 Since we want privacy, the application should have a local database. An SQL database provides some rules to the business logic
 (database relationships, types of the columns, triggers, ...).
 
-The database schema is the following: ![db schema](assets/db-v1.0.0.png)
+The database schema is the following: ![db schema](assets/db.jpg)
 
 ### Local Db
 - Tasks: This is for creating and reusing tasks. the name is indexed for auto-complete.
