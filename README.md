@@ -9,7 +9,7 @@ a lot of free time, I want it to be worthwhile. I want to do things that matter 
 
 When you are this deep in sadness, you can't help but think of the times when you had fun. For me, the most fun I had has been
 when playing challenging video games. When I level up and clear new levels. When I become better at the game. And that's
-when this idea struck me: "What if life was a game as well?", at least the free time part of it. What if I can bring the
+when this idea struck me: "What if I can treat my daily days like a game?", at least the free time part of it. What if I can bring the
 feeling of continuous challenge and improvement back to my life? What if I can challenge the old me and become better each
 day? 
 
@@ -22,12 +22,12 @@ new table in the next week. Spoiler-alert: I couldn't respect that as well.
 I always thought of planning my tasks as: "I have to plan at least this amount of tasks a day". My human nature would get
 the best of me and the plan was not entirely respected no matter how relaxed I made it.
 
-What if my thought process was not efficient? instead of thinking of the minimum that I have to do a day, what if I think
+Was my thought process efficient? Trying to set a minimum of tasks each day? That's when it struck me. What if I think
 of the maximum that I should do a day? What if I limit the amount of tasks that I have to do? would that make the process
-a bit easier? Will I focus more on the small amount of things that I had to do that day? This was the time when I first 
+a bit easier? Will I focus more on the small amount of things that I had to do that day? With some research, I
 learned about this thing called Kaizen. It is a Japanese word that means: "Continuous small Improvement". In each day you
-would do a tasks -no matter how small- towards becoming better in whatever field you wanted to do. This inspired me a lot,
-and I wanted to implement this kaizen principle in my life in an enjoyable way.
+would do a tasks -no matter how small- towards becoming better in whatever field you wanted to do. This inspired me a lot.
+I wanted to implement this kaizen principle in my life in an enjoyable way.
 
 This project is my personal approach and implementation to the kaizen principle in a fun way that motivates me and hopefully
 other people to feel accomplished and motivated to follow the things we want in our short life spans.
